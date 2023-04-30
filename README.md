@@ -1,5 +1,7 @@
-# megaxis_for_eduDAO
-  a Web3-native platform to serve the 10 Billion super individuals brought about by the AI revolution.
+# MEGAXIS_for_eduDAO
+![alt text](./shotscreen/welcome.svg)
+
+  A Web3-native platform to serve the 10 Billion super individuals brought about by the AI revolution.
 
   Our product portfolio: 1. Web3 service platform for AI App developers; 2. AI Prompt NFT marketplace; 3. Web3 LLM-as-a-service.
 
