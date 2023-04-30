@@ -1,4 +1,4 @@
-# megaxis_for_ethtokyo
+# megaxis_for_etheduDAO
   a Web3-native platform to serve the 10 Billion super individuals brought about by the AI revolution.
 
   Our product portfolio: 1. Web3 service platform for AI App developers; 2. AI Prompt NFT marketplace; 3. Web3 LLM-as-a-service.
@@ -13,9 +13,9 @@
 - Twitter: [@megaxis](https://twitter.com/Uniswap)
 
 - screenshot:
-  - [welcome](https://github.com/megaxis-for-ethtokyo/megaxis_for_ethtokyo/blob/main/shotscreen/screen.png?raw=true)
-  - [main page](https://https://github.com/megaxis-for-ethtokyo/megaxis_for_ethtokyo/blob/main/shotscreen/screen1.png?raw=true)
-  - [prompt detail](https://github.com/megaxis-for-ethtokyo/megaxis_for_ethtokyo/blob/main/shotscreen/screen3.png?raw=true)
+  - [welcome](https://github.com/MEGAxis-Hackathon/demo/tree/master/shotscreen/screen.png?raw=true)
+  - [main page](https://https://github.com/MEGAxis-Hackathon/demo/tree/master/shotscreen/screen1.png?raw=true)
+  - [prompt detail](https://github.com/MEGAxis-Hackathon/demo/tree/master/shotscreen/screen3.png?raw=true)
 
 ## Develop  megaxis
 
@@ -23,10 +23,10 @@ To develop the megaxis,
 
 
 Deploy, install packages and set configurations according to the project README of the front end, back end, and contract.
-- front-end-doc: [README.front](https://github.com/megaxis-for-ethtokyo/megaxis_for_ethtokyo/blob/main/megaxisFront/README.md)
-- back-end-doc: [README.back](https://github.com/megaxis-for-ethtokyo/megaxis_for_ethtokyo/blob/main/tieBackend/README.MD)
-- contract-doc: [README.contract](https://github.com/megaxis-for-ethtokyo/megaxis_for_ethtokyo/blob/main/Hardhat-PromptNft-market/README.md)
-- nft-market-doc: [README.market](https://github.com/megaxis-for-ethtokyo/megaxis_for_ethtokyo/blob/main/prompt-nft-market-poly/README.md)
+- front-end-doc: [README.front](https://github.com/MEGAxis-Hackathon/demo/tree/master/megaxisFront/README.md)
+- back-end-doc: [README.back](https://github.com/MEGAxis-Hackathon/demo/tree/master/megaxisBackend/README.MD)
+- contract-doc: [README.contract](https://github.com/MEGAxis-Hackathon/demo/tree/master/Hardhat-PromptNft-market/README.md)
+- nft-market-doc: [README.market](https://github.com/MEGAxis-Hackathon/demo/tree/master/prompt-nft-market/README.md)
 
 ## Contributions
 
