@@ -1,4 +1,4 @@
-# megaxis_for_etheduDAO
+# megaxis_for_eduDAO
   a Web3-native platform to serve the 10 Billion super individuals brought about by the AI revolution.
 
   Our product portfolio: 1. Web3 service platform for AI App developers; 2. AI Prompt NFT marketplace; 3. Web3 LLM-as-a-service.
@@ -8,7 +8,7 @@
 
 - promptmarket: [prompt.nftmarket.org](http://megaxis.ai:3000/)
 
-- contract : [promptnft.sol](https://mumbai.polygonscan.com/address/0xd8f65552dE03BA8366B4b646B4EA2b3045fE2721#code)
+- contract : [promptnft.sol](https://explorer.testnet.mantle.xyz/address/0x14885d2e6E06E6f2Fb11b4dA28D9e7c300DA4163)
 
 - Twitter: [@megaxis](https://twitter.com/Uniswap)
 
