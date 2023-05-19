@@ -1,21 +1,33 @@
-# megaxis_for_ethtokyo
-  a Web3-native platform to serve the 10 Billion super individuals brought about by the AI revolution.
+# MEGAXIS_for_eduDAO
+![alt text](./shotscreen/welcome.svg)
+
+  A Web3-native platform to serve the 10 Billion super individuals brought about by the AI revolution.
 
   Our product portfolio: 1. Web3 service platform for AI App developers; 2. AI Prompt NFT marketplace; 3. Web3 LLM-as-a-service.
+
+  ### Updates for this eduDAO:
+    Added more than 50,000 real prompts, and added a prompt display interface. In addition, an AI tools display interface has been added, which can directly jump to the webpage of the AI gadget for use.
+    
+    Modified lots of bugs of ethTokyo vision, and deployed the project to mantle, so that we can take advantage of the low-gas and security features of mantle
+
+
+​     
 
 
 - Website: [megaxis.ai](http://megaxis.ai)
 
 - promptmarket: [prompt.nftmarket.org](http://megaxis.ai:3000/)
 
-- contract : [promptnft.sol](https://mumbai.polygonscan.com/address/0xd8f65552dE03BA8366B4b646B4EA2b3045fE2721#code)
+- AITools: [megaxis.AItools.org](http://megaxis.ai:3001/)
+
+- contract : [promptnft.sol](https://explorer.testnet.mantle.xyz/address/0x14885d2e6E06E6f2Fb11b4dA28D9e7c300DA4163)
 
 - Twitter: [@megaxis](https://twitter.com/Uniswap)
 
 - screenshot:
-  - [welcome](https://github.com/megaxis-for-ethtokyo/megaxis_for_ethtokyo/blob/main/shotscreen/screen.png?raw=true)
-  - [main page](https://https://github.com/megaxis-for-ethtokyo/megaxis_for_ethtokyo/blob/main/shotscreen/screen1.png?raw=true)
-  - [prompt detail](https://github.com/megaxis-for-ethtokyo/megaxis_for_ethtokyo/blob/main/shotscreen/screen3.png?raw=true)
+  - [welcome](https://github.com/MEGAxis-Hackathon/demo/tree/master/shotscreen/screen.png?raw=true)
+  - [main page](https://https://github.com/MEGAxis-Hackathon/demo/tree/master/shotscreen/screen1.png?raw=true)
+  - [prompt detail](https://github.com/MEGAxis-Hackathon/demo/tree/master/shotscreen/screen3.png?raw=true)
 
 ## Develop  megaxis
 
@@ -23,10 +35,10 @@ To develop the megaxis,
 
 
 Deploy, install packages and set configurations according to the project README of the front end, back end, and contract.
-- front-end-doc: [README.front](https://github.com/megaxis-for-ethtokyo/megaxis_for_ethtokyo/blob/main/megaxisFront/README.md)
-- back-end-doc: [README.back](https://github.com/megaxis-for-ethtokyo/megaxis_for_ethtokyo/blob/main/tieBackend/README.MD)
-- contract-doc: [README.contract](https://github.com/megaxis-for-ethtokyo/megaxis_for_ethtokyo/blob/main/Hardhat-PromptNft-market/README.md)
-- nft-market-doc: [README.market](https://github.com/megaxis-for-ethtokyo/megaxis_for_ethtokyo/blob/main/prompt-nft-market-poly/README.md)
+- front-end-doc: [README.front](https://github.com/MEGAxis-Hackathon/demo/tree/master/megaxisFront/README.md)
+- back-end-doc: [README.back](https://github.com/MEGAxis-Hackathon/demo/tree/master/megaxisBackend/README.MD)
+- contract-doc: [README.contract](https://github.com/MEGAxis-Hackathon/demo/tree/master/Hardhat-PromptNft-market/README.md)
+- nft-market-doc: [README.market](https://github.com/MEGAxis-Hackathon/demo/tree/master/prompt-nft-market/README.md)
 
 ## Contributions
 
@@ -51,4 +63,5 @@ things to note:
 - PRs with multiple changes should use a list of verb statements
 - Add any relevant unit / integration tests
 - Changes will be previewable via vercel. Non-obvious changes should include instructions for how to reproduce them
+
 
