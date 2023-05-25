@@ -1,14 +1,9 @@
-# MEGAXIS_for_eduDAO
+# MEGAXIS
 ![alt text](./shotscreen/welcome.svg)
 
   A Web3-native platform to serve the 10 Billion super individuals brought about by the AI revolution.
 
   Our product portfolio: 1. Web3 service platform for AI App developers; 2. AI Prompt NFT marketplace; 3. Web3 LLM-as-a-service.
-
-  ### Updates for this eduDAO:
-    Added more than 50,000 real prompts, and added a prompt display interface. In addition, an AI tools display interface has been added, which can directly jump to the webpage of the AI gadget for use.
-    
-    Modified lots of bugs of ethTokyo vision, and deployed the project to mantle, so that we can take advantage of the low-gas and security features of mantle
 
 
 ​     
